@@ -1,0 +1,28 @@
+{
+  "name": "@vsunday/mizuho",
+  "version": "0.1.0",
+  "description": "extract currency exchange rate from histrical data by mizuho bank",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsunday/node-mizuho.git"
+  },
+  "keywords": [
+    "mizuho",
+    "currency",
+    "exchange",
+    "rate"
+  ],
+  "author": "vsunday",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vsunday/node-mizuho/issues"
+  },
+  "homepage": "https://github.com/vsunday/node-mizuho#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
